@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaHarjutused.iml" filepath="$PROJECT_DIR$/JavaHarjutused.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeitsmesPeatükk/SeitsmesPeatükk.iml" filepath="$PROJECT_DIR$/SeitsmesPeatükk/SeitsmesPeatükk.iml" />
+    </modules>
+  </component>
+</project>
